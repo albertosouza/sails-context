@@ -1,7 +1,7 @@
 {
   "name": "sails-context",
   "description": "Sails.js context loader, it preload context info and data in req.context",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^2.4.1",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:wejs/sails-context.git"
+    "url": "git@github.com:albertosouza/sails-context.git"
   }
 }
