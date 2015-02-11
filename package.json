@@ -1,7 +1,7 @@
 {
   "name": "sails-context",
   "description": "Sails.js context loader, it preload context info and data in req.context",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "./lib/index.js",
   "dependencies": {
     "lodash": "^2.4.1",
